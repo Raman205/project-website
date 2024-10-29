@@ -23,3 +23,23 @@ nav ul li{
     font-weight: 500;
     cursor: pointer;
 }
+new .logo{
+width: 220px;
+cursor:pointer;
+}
+.nav-btn{
+    background:#000;
+    color:#fff;
+    font-size:16px;
+    padding:15px 25px;
+    border: 0;
+    outline: 0;
+    border-radius: 40px;
+    cursor: pointer;
+}
+
+.header{
+    width: 100%;
+    min-height: 100vh;
+    padding: 0 10px;
+}
